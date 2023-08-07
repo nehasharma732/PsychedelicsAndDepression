@@ -4,4 +4,4 @@ This project aims unveil potential links between depression among users of psych
 
 Please refer to "Psychedelics_and_Depression.ipynb" for the final write- up.
 
-Link for Final Project: (https://github.com/nehasharma732/Psychedelics_and_Depression/blob/main/Final_Project.ipynb)
+Link for Final Project: [ Psychedelics_and_Depression.ipynb](https://github.com/nehasharma732/Psychedelics_and_Depression/blob/main/Psychedelics_and_Depression.ipynb)
