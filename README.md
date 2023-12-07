@@ -2,7 +2,7 @@
 
 Team Members: [Neha Sharma](https://github.com/nehasharma732), [Vartan Pashayan](https://github.com/VartanPashayan), [Alexander Levine](https://github.com/alexlevine1220), [Sohaib Khan](https://github.com/SKhan141), [Sneha Sairam](https://github.com/sneha530)
 
-Final Write-up: [Psychedelics_and_Depression](https://github.com/nehasharma732/Psychedelics_and_Depression/blob/main/Psychedelics_and_Depression.ipynb)
+Final Write-up: [Psychedelics_and_Depression](https://github.com/nehasharma732/Psychedelics_and_Depression/blob/main/FinalProject_writeup.ipynb)
 
 ## Overview
 
